@@ -1,0 +1,25 @@
+html,
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+svg {
+  width: 100%;
+  height: inherit;
+}
+
+.navigation-bar,
+.nav-option {
+  fill: #51976f;
+}
+.navigation-bar {
+  stroke: #707070;
+}
+.nav-text {
+  font-size: 33px;
+  font-family: SegoeUI-Bold, Segoe UI;
+  font-weight: 700;
+}
